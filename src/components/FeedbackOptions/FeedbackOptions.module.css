@@ -1,0 +1,14 @@
+.feedback_button{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+button{
+    text-transform: capitalize;
+    font-size: 24px;
+    font-weight: 500;
+    font-style: bolt;
+    padding:  5px 10px;
+    background-color: #7bddd5;
+}
